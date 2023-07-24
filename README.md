@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **TS Private Limited**
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **Python**
 
